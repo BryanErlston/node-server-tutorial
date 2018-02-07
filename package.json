@@ -18,5 +18,8 @@
   "homepage": "https://github.com/BryanErlston/node-server-tutorial#readme",
   "dependencies": {
     "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.0.0"
   }
 }
