@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BryanErlston/node-server-tutorial/issues"
   },
-  "homepage": "https://github.com/BryanErlston/node-server-tutorial#readme"
+  "homepage": "https://github.com/BryanErlston/node-server-tutorial#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
 }
