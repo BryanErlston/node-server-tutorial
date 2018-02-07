@@ -1,0 +1,19 @@
+{
+  "name": "server-tutorial",
+  "version": "1.0.0",
+  "description": "My first node tutorial with git",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanErlston/node-server-tutorial.git"
+  },
+  "author": "Bryan Erlston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanErlston/node-server-tutorial/issues"
+  },
+  "homepage": "https://github.com/BryanErlston/node-server-tutorial#readme"
+}
